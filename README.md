@@ -6,6 +6,7 @@ Junior Frontend Web Developer
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [poliquitmariele@gmail.com](mailto:poliquitmariele@gmail.com)
+* 🌱 I’m currently focusing on improving my frontend web development skills
 
 ### Skills
 

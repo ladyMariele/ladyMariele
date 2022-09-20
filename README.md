@@ -1,12 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mariele 
 ========================================================================================================================================
 
-Self-taught Web Developer
+I'm a self-taught Web Developer
 -----------------------------
 
 * 🌍  I'm based in Philippines
-* ✉️  Let's build together! ✨ contact me at [poliquitmariele@gmail.com](mailto:poliquitmariele@gmail.com) (or in any of my socials linked below)
 * 🌱 I’m taking my time to learn full-stack web development
+* ✨ I've collaborated with <a href="https://www.vileinstudios.com/venrif/">Venrif</a> and used my frontend skills in building their website
+* ✉️  Let's build together! ✨ contact me at [poliquitmariele@gmail.com](mailto:poliquitmariele@gmail.com) (or in any of my socials linked below)
+
+### 3 truths 1 lie
+* I forget my friends' birthday
+* I haven't seen the Harry Potter And The Deathly Hallows part 2 movie
+* I haven't tried smoking tabacco cigarettes EVER
+* I got bored one day and decided to do fasting for 24 hours
 
 ### Skills
 

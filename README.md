@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mariele 
+Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mariele 
 ========================================================================================================================================
 
 I'm a self-taught Web Developer
@@ -8,12 +8,6 @@ I'm a self-taught Web Developer
 * 🌱 I’m taking my time to learn full-stack web development
 * ✨ I've collaborated with <a href="https://www.vileinstudios.com/venrif/">Venrif</a> and used my frontend skills in building their website
 * ✉️  Let's build together! ✨ contact me at [poliquitmariele@gmail.com](mailto:poliquitmariele@gmail.com) (or in any of my socials linked below)
-
-### 3 truths 1 lie
-* I forget my friends' birthday
-* I haven't seen the Harry Potter And The Deathly Hallows part 2 movie
-* I haven't tried smoking tabacco cigarettes EVER
-* I got bored one day and decided to do fasting for 24 hours
 
 ### Skills
 
@@ -26,8 +20,14 @@ I'm a self-taught Web Developer
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-</p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="36" height="36" alt="Heroku" /></a>
+</p> 
 
+### 3 truths 1 lie
+* I forget my friends' birthday
+* I haven't seen the Harry Potter And The Deathly Hallows part 2 movie
+* I haven't tried smoking tabacco cigarettes EVER
+* I got bored one day and decided to do fasting for 24 hours
 
 ### Socials
 

@@ -24,8 +24,8 @@ I'm a self-taught Web Developer
 </p> 
 
 ### 3 truths 1 lie
-* I forget my friends' birthday
-* I haven't seen the Harry Potter And The Deathly Hallows part 2 movie
+* Tell me your birthday once and I'll never forget it
+* I HATE pineapples on pizza
 * I haven't tried smoking tabacco cigarettes EVER
 * I got bored one day and decided to do fasting for 24 hours
 

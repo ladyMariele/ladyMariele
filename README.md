@@ -26,11 +26,11 @@ I'm a self-taught Web Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
 
-### 3 truths 1 lie
+<!-- ### 3 truths 1 lie
 * Tell me your birthday once and I'll never forget it
 * I HATE pineapples on pizza
 * I haven't tried smoking tabacco cigarettes EVER
-* I got bored one day and decided to do fasting for 24 hours
+* I got bored one day and decided to do fasting for 24 hours -->
 
 ### Socials
 

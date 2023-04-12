@@ -26,7 +26,7 @@ I'm a self-taught Web Developer
 
   
  ### Tools
-<img src="./icon/visual-studio-code-icon.svg" width="36" height="36" alt="VScode" />   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />       <img src="./icon/canva-icon.svg" width="36" height="36" alt="VScode" />
+<img src="./icon/visual-studio-code-icon.svg" width="36" height="36" alt="VScode" />   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />       <img src="./icon/canva-icon.svg" width="36" height="36" alt="VScode" />    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/316px-The_GIMP_icon_-_gnome.svg.png?20220110174659" width="36" height="36" alt="Gimp" />
   
   
 <!-- ### 3 truths 1 lie

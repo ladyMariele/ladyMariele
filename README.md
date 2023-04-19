@@ -5,7 +5,7 @@ I'm a self-taught Web Developer
 -----------------------------
 
 * 🌍  I'm based in Philippines
-* 🌱 I’m taking my time to learn full-stack web development
+* 🌱 I’m taking my time to learn full-stack web development, and currently focusing on frontend.
 * ✨ I've collaborated with <a href="https://www.vileinstudios.com/venrif/">Venrif</a> and used my frontend coding skills in building their website
 * ✉️  Let's build together! ✨ contact me at [poliquitmariele@gmail.com](mailto:poliquitmariele@gmail.com) (or in any of my socials linked below)
 

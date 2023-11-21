@@ -4,9 +4,8 @@ Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 I'm a self-taught Web Developer
 -----------------------------
 
-* 🌍  I'm based in Philippines
-* 🌱 I’m taking my time to learn full-stack web development, and currently focusing on frontend.
-* ✨ I've collaborated with <a href="https://www.vileinstudios.com/venrif/">Venrif</a> and used my frontend coding skills in building their website
+* 📂 check my [Portfolio](https://ladymariele.github.io/portfolio/)
+*  ✨ I've collaborated with <a href="https://www.vileinstudios.com/venrif/">Venrif</a> and built the client side their website
 * ✉️  Let's build together! ✨ contact me at [poliquitmariele@gmail.com](mailto:poliquitmariele@gmail.com) (or in any of my socials linked below)
 
 ### Skills
@@ -20,13 +19,13 @@ I'm a self-taught Web Developer
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="36" height="36" alt="Heroku" /></a>
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 
   
  ### Tools
-<img src="./icon/visual-studio-code-icon.svg" width="36" height="36" alt="VScode" />   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />       <img src="./icon/canva-icon.svg" width="36" height="36" alt="VScode" />    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/316px-The_GIMP_icon_-_gnome.svg.png?20220110174659" width="36" height="36" alt="Gimp" />
+<img src="./icon/visual-studio-code-icon.svg" width="36" height="36" alt="VScode" />   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="36" height="36" alt="Heroku" /></a>   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />       <img src="./icon/canva-icon.svg" width="36" height="36" alt="VScode" />    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/316px-The_GIMP_icon_-_gnome.svg.png?20220110174659" width="36" height="36" alt="Gimp" />
   
   
 <!-- ### 3 truths 1 lie

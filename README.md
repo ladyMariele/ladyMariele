@@ -6,7 +6,7 @@ I'm a self-taught Web Developer
 
 * 📂 check my [Portfolio](https://ladymariele.github.io/portfolio/)
 *  ✨ I've collaborated with <a href="https://www.vileinstudios.com/venrif/">Venrif</a> and built the client side their website
-* ✉️  Let's build together! ✨ contact me at [poliquitmariele@gmail.com](mailto:poliquitmariele@gmail.com) (or in any of my socials linked below)
+* ✉️  Let's build together! ✨ send me an [email](mailto:poliquitmariele@gmail.com) (or DM me in any of my socials linked below)
 
 ### Skills
 
